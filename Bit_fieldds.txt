@@ -1,0 +1,6 @@
+  Bit fields are use to consume memory efficiently when we know that the value
+  of a field or group of fields will never exceed a limit or is within a small range
+
+
+  It can be used in Structure and union
+  
